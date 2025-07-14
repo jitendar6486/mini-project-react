@@ -24,7 +24,6 @@ A responsive and lightweight weather application built with **React**, **Vite**,
 - [ESLint](https://eslint.org/)
 
 ---
-
 📁 Project Structure
 ├── src/
 │   ├── App.jsx
@@ -38,8 +37,7 @@ A responsive and lightweight weather application built with **React**, **Vite**,
 ├── vite.config.js
 ├── eslint.config.js
 └── README.md
-
-
+```
 
 ## 📦 Installation
 
