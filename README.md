@@ -26,20 +26,19 @@ A responsive and lightweight weather application built with **React**, **Vite**,
 ---
 
 📁 Project Structure
-.
+
 ├── src/
 │   ├── App.jsx
 │   ├── main.jsx
 │   ├── SearchBox.jsx
 │   ├── InfoBox.jsx
-│   └── ...
+│   └── ... (other components or files)
 ├── public/
+│   └── ... (static assets like index.html, images, etc.)
 ├── package.json
 ├── vite.config.js
 ├── eslint.config.js
 └── README.md
-
-
 
 ## 📦 Installation
 
@@ -49,6 +48,4 @@ cd mini-project-react
 npm install
 
 ▶️ Running Locally
-bash
-Copy code
 npm run dev
