@@ -15,29 +15,7 @@ A responsive and lightweight weather application built with **React**, **Vite**,
 
 ---
 
-## 🛠️ Tech Stack
 
-- [React](https://reactjs.org/)
-- [Material UI](https://mui.com/)
-- [Vite](https://vitejs.dev/)
-- [OpenWeatherMap API](https://openweathermap.org/api)
-- [ESLint](https://eslint.org/)
-
----
-📁 Project Structure
-├── src/
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── SearchBox.jsx
-│   ├── InfoBox.jsx
-│   └── ... (other components or files)
-├── public/
-│   └── ... (static assets like index.html, images, etc.)
-├── package.json
-├── vite.config.js
-├── eslint.config.js
-└── README.md
-```
 
 ## 📦 Installation
 
